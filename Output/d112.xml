@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<declaratieUnica luna_r="1" an_r="2026" d_rec="1" tip_rec="2" nume_declar="Popescu" prenume_declar="Ion" functie_declar="Administrator" xmlns="mfp:anaf:dgti:declaratie_unica:declaratie:v7">
+    <angajator cif="12345678" caen="6201" den="NUME FIRMA S.R.L." casaAng="B" datCAM="1" totalPlata_A="1500">
+        <angajatorA A_codOblig="602" A_codBugetar="20470101XX" A_datorat="500" A_scutit="0" A_plata="500" />
+        <angajatorB B_cnp="10" B_sanatate="10" B_pensie="10" B_sal="10" B_brutSalarii="4000" />
+    </angajator>
+    <asigurat cnpAsig="1900101123456" idAsig="1" numeAsig="Ionescu" prenAsig="Vasile" dataAng="10.10.2026" asigCI="1" asigSO="1" Timp_E3="8">
+        <asiguratA A_1="20" A_sal1="20" A_sal2="20" A_2="0" A_3="N" A_4="8" A_11="4000" A_12="1000" A_13="400" A_14="0" A_13P="0" A_14P="0" A_11P="0" A_12P="0" A_14D="0" A_12D="0" A_13S="0" A_13C="0" />
+    </asigurat>
+</declaratieUnica>
